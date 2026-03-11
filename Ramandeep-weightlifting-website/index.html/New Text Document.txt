@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<title>Ramandeep Weightlifting</title>
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Ramandeep Weightlifting Academy</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="program.html">Training Program</a>
+<a href="diet.html">Diet & Supplements</a>
+</nav>
+
+</header>
+
+<section class="hero">
+
+<h2>National Level Olympic Weightlifting Athlete & Coach</h2>
+
+<p>
+Welcome to my website. I am Ramandeep, a national level weightlifting
+player and coach. Here I share professional training programs
+and diet plans for athletes.
+</p>
+
+</section>
+
+</body>
+</html>

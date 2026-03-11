@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+<title>Diet and Supplements</title>
+<link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<header>
+
+<h1>Athlete Diet Plan</h1>
+
+<nav>
+<a href="index.html">Home</a>
+<a href="program.html">Program</a>
+<a href="diet.html">Diet</a>
+</nav>
+
+</header>
+
+<section>
+
+<h2>High Protein Athlete Diet</h2>
+
+<ul>
+<li>Breakfast – Oats, Eggs, Milk</li>
+<li>Lunch – Rice, Chicken, Vegetables</li>
+<li>Pre Workout – Banana + Peanut Butter</li>
+<li>Post Workout – Whey Protein + Dates</li>
+<li>Dinner – Chapati, Paneer / Chicken</li>
+</ul>
+
+</section>
+
+</body>
+</html>
